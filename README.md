@@ -13,8 +13,7 @@ Built using **Python + Streamlit + Scikit-learn**.
  * Select a movie  
  * Get top 5 similar movie recommendations  
  * ML-based recommendation (TF-IDF + Cosine Similarity)  
- * Beautiful UI with background image  
-
+ * Enjoy your Movies
 ---
 
 ##  ML Algorithm Used
