@@ -10,10 +10,10 @@ Built using **Python + Streamlit + Scikit-learn**.
 
 ## Features
 
-✔ Select a movie  
-✔ Get top 5 similar movie recommendations  
-✔ ML-based recommendation (TF-IDF + Cosine Similarity)  
-✔ Beautiful UI with background image  
+ Select a movie  
+ Get top 5 similar movie recommendations  
+ ML-based recommendation (TF-IDF + Cosine Similarity)  
+ Beautiful UI with background image  
 
 ---
 
